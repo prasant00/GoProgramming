@@ -1,6 +1,5 @@
 package main
 
-// Importing required packages
 import (
 	"fmt"
 )
